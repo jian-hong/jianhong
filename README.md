@@ -10,7 +10,8 @@ The past decade have been onerous to global mankind. The **Sustainable Developme
 ### Project 1: Integrated Traffic Control Systems
 >_A traffic management system that helps to avoid wasting time waiting for traffic lights._
  #### Tasks:
--Write a program controlling the traffic light systems.
+- Write a program controlling the traffic light systems.
+
 
 ### Project 2: S.M.A.R.T Briefcase
 > _A briefcase to help people who are notorious for leaving possessions behind to track them back._
@@ -39,8 +40,8 @@ The past decade have been onerous to global mankind. The **Sustainable Developme
 - Create an interactive application to control funds.
 
 ## Types of Pull/Merge Requests needed:
-- Suggestions to improve the functions of projects
-- Codes ideas for projects
+- Suggestions to improve the functions of the projects
+- Coding and programming ideas for the projects
 
 ![62b896f4eebd91567c2fa674518c1efb-3](https://user-images.githubusercontent.com/112492415/193466413-64ef2bdb-d135-4996-9395-17e2018e074e.jpg)
 To Be Continued....
